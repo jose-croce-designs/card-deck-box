@@ -1,0 +1,7 @@
+*~
+*.gcode
+*.FCBak
+*.FCStd?*
+!*.FCStd
+*.stl
+*.swp
